@@ -1,0 +1,12 @@
+rachana: where is the coffee
+Noah:The campus coffee bar is ope
+rachana:exit
+Noah: Goodbye, rachana! Have a great day!
+rachana: okay
+Serena: I don't know that, but I can help with other things. What else would you like to know? 
+rachana:what
+Serena: Sorry, I'm not sure about that. Try asking something else!
+rachana:wxit
+Serena: That's an interesting question! Can you ask me something else?
+rachana:exit
+Serena: Goodbye, rachana! Have a great day!
